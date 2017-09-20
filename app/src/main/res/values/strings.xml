@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Order Food</string>
+    <string name="myname">Lê Cẩm</string>
+    <string name="myEmail">thantoandoc83@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dish_list"> Món Ăn </string>
+    <string name="table_list"> Bàn Ăn </string>
+    <string name="type_of_dish_list">Danh Sách Loại Món Ăn</string>
+    <string name="communication">Communication</string>
+    <string name="add_dish_title">Thêm Món Ăn</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="name_of_dish">Name Of Dish</string>
+    <string name="cost_of_dish">Cost Of Dish</string>
+    <string name="vnd">VND</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+</resources>
